@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(216, 222, 240);
+}
+.main {
+  width: 50em;
+  height: 50em;
+  margin: 0 auto;
+}
+
+.main_section {
+  background-color: rgb(255, 255, 255);
+  width: 25em;
+  height: 40em;
+  margin: 0 auto;
+  margin-top: 4em;
+  margin-bottom: 25em;
+  border-radius: 25px;
+}
+
+.content_images_qr_code {
+}
+.images-QR_CODE {
+  width: 350px;
+  height: 350px;
+  border-radius: 15px;
+  margin: 2em 1.5em;
+}
+.content_title {
+  text-align: center;
+  font-family: "Roboto", system-ui;
+  font-weight: 700;
+  font-size: 30px;
+}
+.content_paragraf {
+    color: gray;
+  margin-top: 1em;
+  margin-left: 25px;
+  margin-right: 25px;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto", system-ui;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.attribution{
+
+    float: center;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+
+}
